@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Curso Git
+title:  Bienvenidos a mi cuenta de Git Hub
 date:   2021-068-29 08:00:00 +0300
 description: Ejercicio de la unidad 9 # Add post description (optional)
 img: post-1.jpg # Add image post (optional)
