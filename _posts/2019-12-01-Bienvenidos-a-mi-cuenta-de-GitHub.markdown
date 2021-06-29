@@ -8,4 +8,4 @@ tags: [Blog]
 author: # Add name author (optional)
 ---
 
-En esta página se muestra el resultado de crear un post en el blog...
+En esta página se muestra el resultado de crear un post en el blog... :)
